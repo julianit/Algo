@@ -1,3 +1,18 @@
+/*
+  This file represents Binary Tree structure.
+  It can be use as a a base for further tests.
+  I have implemented the most common algorithms:
+  - In Order, 
+  - Post Order,
+  - Pre Order traversal.
+
+  Along with that the tree has two more functions
+  that implements inorder-iterator: 
+  - HasNext
+  - GetNext
+  
+*/
+
 /* 	
 	A binary tree node has data, pointer to left child
 	and a pointer to right child 
